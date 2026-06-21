@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, eu sou Yuri Neves 👋
 
-<!--
-**yurineves10/yurineves10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+💻 Desenvolvedor Back-end com foco em Java, Spring Boot, Node.js e PostgreSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Open to Work
+
+## Tecnologias
+
+- Java
+- Spring Boot
+- Spring Security
+- JWT
+- Node.js
+- PostgreSQL
+- SQL
+- Git e GitHub
+
+## Projetos
+
+### Sistema de Estoque
+API de gestão de estoque desenvolvida com Node.js e PostgreSQL.
+
+### Sistema Bancário
+API REST com Java e Spring Boot simulando operações bancárias.
+
+### Sistema de Agendamento
+API REST para gerenciamento de agendamentos com autenticação JWT.
+
+## Contato
+
+LinkedIn:
+www.linkedin.com/in/yuri-neves-74a3523ba
